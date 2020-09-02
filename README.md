@@ -13,6 +13,10 @@ Here's more about me
 - 😄 Pronouns - He/Him
 - ⚡ Fun fact - . The best way to learn programming you ask? Google it :stuck_out_tongue_closed_eyes:
 
+<a href="#!">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aniketbiswas21&show_icons=true&include_all_commits=true&theme=radical" alt="Aniket's github stats" />
+</a>
+
 
 <a href="https://twitter.com/Aniket__21"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
 <a href="https://www.linkedin.com/in/aniket-biswas-59394b191/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
