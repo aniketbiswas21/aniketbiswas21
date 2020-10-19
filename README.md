@@ -3,6 +3,8 @@ My name is [Aniket Biswas](https://www.linkedin.com/in/aniket-biswas-59394b191/)
 
 I am currently pursuing B.E. 💻 at [Thapar Institute of Engineering and Technology](https://thapar.edu)
 
+![](https://komarev.com/ghpvc/?username=aniketbiswas21)
+
 Here's more about me
 
 - 🔭 I’m currently working on - [Buying Selling Platform](https://github.com/developer-student-club-thapar/buying_selling_devops) and [Thapar App](https://github.com/developer-student-club-thapar/thapar_app)
