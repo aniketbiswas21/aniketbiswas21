@@ -7,9 +7,9 @@ I am currently pursuing B.E. 💻 at [Thapar Institute of Engineering and Techno
 
 Here's more about me
 
-- 🔭 I’m currently working on - [Pix](https://github.com/aniketbiswas21/Pix), [Buying Selling Platform](https://github.com/developer-student-club-thapar/buying_selling_devops) and [Thapar App](https://react.vexio.in/)
-- 🌱 I’m currently learning - Docker, NodeJS, GraphQL, Firebase, Typescript and Flutter.
-- 👯 I’m looking to collaborate on - MERN stack projects
+- 🔭 I’m currently working on - [Hallparty](https://www.hallparty.app/), [Pix](https://github.com/aniketbiswas21/Pix), and [Thapar App](https://react.vexio.in/)
+- 🌱 I’m currently learning - GoLang, GraphQL, Typescript and React-Native.
+- 👯 I’m looking to collaborate on - MERNG stack projects, GoLang based Projects.
 - 💬 Ask me about - Anything related to web technologies. :smiley:
 - 📫 How to reach me - aniket.biswas75@gmail.com
 - 😄 Pronouns - He/Him
