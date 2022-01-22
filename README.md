@@ -7,7 +7,7 @@ I am currently pursuing B.E. 💻 at [Thapar Institute of Engineering and Techno
 
 Here's more about me
 
-- 🔭 I’m currently working on - [Hallparty](https://www.hallparty.app/), [Pix](https://github.com/aniketbiswas21/Pix), and [Thapar App](https://react.vexio.in/)
+- 🔭 I’m currently working on - [Fampay](https://fampay.in/), [Hallparty](https://www.hallparty.app/) and [Firefly-JS](https://github.com/FireflyJS/fireflyjs-core)
 - 🌱 I’m currently learning - GoLang, GraphQL, Typescript and React-Native.
 - 👯 I’m looking to collaborate on - MERNG stack projects, GoLang based Projects.
 - 💬 Ask me about - Anything related to web technologies. :smiley:
